@@ -112,7 +112,7 @@
         <section id="accueil" class="section">
             <h2>Bienvenue chez Luxentry</h2>
             <p>Votre conciergerie de luxe pour des voyages sur-mesure. Nous organisons chaque détail pour un séjour inoubliable.</p>
-            <img src="luxury-travel.jpg" alt="Voyage de Luxe">
+            <img src="images.jpeg" alt="Voyage de Luxe">
         </section>
         <section id="services" class="section">
             <h2>Nos Services</h2>
@@ -126,17 +126,17 @@
         <section id="transport" class="section">
             <h2>Transport de Luxe</h2>
             <p>Nous proposons des jets privés, limousines et yachts pour vos déplacements.</p>
-            <img src="private-jet.jpg" alt="Jet privé">
+            <img src="classe-affaire.jpg" alt="Jet privé">
         </section>
         <section id="hotels" class="section">
             <h2>Hébergements de Prestige</h2>
             <p>Des villas privées, hôtels 5 étoiles et resorts exclusifs.</p>
-            <img src="luxury-hotel.jpg" alt="Hôtel de luxe">
+            <img src="hotels-luxe-dubai.jpg" alt="Hôtel de luxe">
         </section>
         <section id="activites" class="section">
             <h2>Activités Exclusives</h2>
             <p>Expériences VIP, événements privés, découvertes gastronomiques et bien plus.</p>
-            <img src="exclusive-event.jpg" alt="Événement privé">
+            <img src="VIP.jpg" alt="Événement privé">
         </section>
         <section id="contact" class="section">
             <h2>Contactez-nous</h2>
