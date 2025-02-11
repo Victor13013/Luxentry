@@ -16,7 +16,7 @@
             scroll-behavior: smooth;
         }
         header {
-            background: url('header-background.jpg') center/cover no-repeat;
+            background: url('header-background.jpeg') center/cover no-repeat;
             color: #fff;
             padding: 50px 20px;
             text-align: center;
